@@ -1,5 +1,9 @@
 import "./App.css";
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import {
+  RouterProvider,
+  createBrowserRouter,
+  createHashRouter,
+} from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Articles from "./pages/Articles";
@@ -42,7 +46,7 @@ function App() {
   const toggleDarkMode = () => setDarkMode((oldState) => !oldState);
   useEffect(() => console.log(darkMode), [darkMode]);
 
-  const router = createBrowserRouter([
+  const router = createHashRouter([
     {
       path: "/",
       element: <Root darkMode={darkMode} toggleDarkMode={toggleDarkMode} />,

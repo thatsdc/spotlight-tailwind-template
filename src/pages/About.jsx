@@ -16,7 +16,7 @@ function About() {
       scotchEl.classList.remove("opacity-0");
       scotchEl.classList.add("scale-x-[8]");
     });
-  }, [scotch, image]);
+  }, [image, scotch]);
 
   return (
     <div className="grid grid-cols-1 pb-24 gap-x-8 lg:gap-y-4 md:gap-y-8 lg:grid-cols-2 px-4 md:px-16 lg:grid-rows-[auto_1fr]">

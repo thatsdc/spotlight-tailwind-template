@@ -36,20 +36,20 @@ function Projects() {
           svgIcon={HelioSteamIcon}
           title="HelioStream"
           description="Real-time video streaming library, optimized for interstellar transmission."
-          url="planetaria.tech"
+          url="heliostream.net"
         />
 
         <ProjectElement
           svgIcon={CosmOsIcon}
           title="cosmOS"
           description="The operating system that powers our Planetaria space shuttles."
-          url="planetaria.tech"
+          url="cosmos.com"
         />
         <ProjectElement
           svgIcon={OpenShuttleIcon}
           title="OpenShuttle"
           description="The schematics for the first rocket I designed that successfully made it to orbit."
-          url="planetaria.tech"
+          url="openshuttle.com"
         />
       </div>
     </div>

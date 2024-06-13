@@ -178,7 +178,7 @@ function Header({ darkMode, toggleDarkMode }) {
           >
             <div className="rounded-full overflow-hidden">
               <img
-                src="https://cdn.jpegmini.com/user/images/slider_puffin_before_mobile.jpg"
+                src="https://img.freepik.com/premium-vector/illustration-person-waving_498048-103.jpg"
                 alt="profile"
                 className="aspect-auto min-h-10"
               />
