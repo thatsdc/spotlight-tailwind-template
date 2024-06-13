@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tailwind-template-restyling/static/css/main.1f8edff8.css",
-    "main.js": "/tailwind-template-restyling/static/js/main.a32775dd.js",
+    "main.js": "/tailwind-template-restyling/static/js/main.318e4b7d.js",
     "static/js/787.c00ec4ac.chunk.js": "/tailwind-template-restyling/static/js/787.c00ec4ac.chunk.js",
     "static/media/highest-mountains-in-the-world-everest.jpg": "/tailwind-template-restyling/static/media/highest-mountains-in-the-world-everest.631054cc8374238d886c.jpg",
     "static/media/SpaceX--e1569850545866.jpeg": "/tailwind-template-restyling/static/media/SpaceX--e1569850545866.b0a2f05e8ef463519eeb.jpeg",
@@ -29,11 +29,11 @@
     "static/media/icons8-instagram.svg": "/tailwind-template-restyling/static/media/icons8-instagram.d4fcbeb79282259e3db213fe2441da3a.svg",
     "static/media/helio-stream.2ac8d11f.svg": "/tailwind-template-restyling/static/media/helio-stream.2ac8d11f.6c8a20c69a6432438a581a8c5725bfd0.svg",
     "main.1f8edff8.css.map": "/tailwind-template-restyling/static/css/main.1f8edff8.css.map",
-    "main.a32775dd.js.map": "/tailwind-template-restyling/static/js/main.a32775dd.js.map",
+    "main.318e4b7d.js.map": "/tailwind-template-restyling/static/js/main.318e4b7d.js.map",
     "787.c00ec4ac.chunk.js.map": "/tailwind-template-restyling/static/js/787.c00ec4ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f8edff8.css",
-    "static/js/main.a32775dd.js"
+    "static/js/main.318e4b7d.js"
   ]
 }
