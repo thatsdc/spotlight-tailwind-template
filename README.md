@@ -32,7 +32,7 @@ This clone is **frontend-only**, built entirely from scratch, and does **not inc
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/ui-clone-[website-name].git
+git clone https://github.com/thatsdc/spotlight-tailwind-template.git
 cd spotlight-tailwind-template
 ```
 
